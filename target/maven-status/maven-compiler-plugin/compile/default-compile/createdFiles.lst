@@ -1,0 +1,8 @@
+com\example\servlet\LoginUserServlet.class
+com\example\model\Role.class
+com\example\model\Patient.class
+com\example\servlet\AddPatientServlet.class
+com\example\servlet\RegisterUserServlet.class
+com\example\util\HibernateUtil.class
+com\example\model\User.class
+com\example\util\PasswordUtil.class
